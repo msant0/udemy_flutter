@@ -1,6 +1,6 @@
 # Experiment Lab 🧪
 
-<p align="center"><img src="./src/assets/img/restaurant.png" width="320" height="320" /></p>
+<p align="center"><img src="./assets/img/restaurant.png" width="320" height="320" /></p>
 
 ## Objective
 <p style="font-size:14px;"><i> * Create a people counter for restaurant! </i></p>
