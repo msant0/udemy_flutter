@@ -14,6 +14,15 @@
 ## Reference
 <p style="font-size:14px;"><i> * The basis of the project was created from the inspiration of the <a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/learn/lecture/11093192?start=1#questions">Udemy: Flutter</a></i></p>
 
+## Project 3 - Conversão de Moedas
+### Objective
+<p style="font-size:14px;"><i> * Convert currency between real, dollar and euro! </i></p>
+<p style="font-size:26px;"><b> Studied Resources </b></p>
+<p style="font-size:14px;"><i> * Work with the use of Future Builder and requests for public API from HG Finance Brasil!</i></p>
+
+## Reference
+<p style="font-size:14px;"><i> * The basis of the project was created from the inspiration of the <a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/learn/lecture/11093192?start=1#questions">Udemy: Flutter</a></i></p>
+
 ## Features
 <p style="font-size:14px;"><i> * Flutter -> 
 Open source user interface development kit</i></p>
