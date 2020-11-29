@@ -7,7 +7,7 @@
 
 ## Project 2
 ### Objective
-<p style="font-size:14px;"><i> * "Calculate the IMC of people! </i></p>
+<p style="font-size:14px;"><i> * Calculate the IMC of people! </i></p>
 <p style="font-size:26px;"><b> Studied Resources </b></p>
 <p style="font-size:14px;"><i> * Work with data validation of a form and state management of variables!</i></p>
 
