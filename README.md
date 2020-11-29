@@ -4,8 +4,9 @@
 <p style="font-size:14px;"><i> * "Create a people counter for restaurant! </i></p>
 ### Studied Resources
 <p style="font-size:14px;"><i> * "Work with simple backend management of text widgets! </i></p>
-<br>
+
 ## Project 2
+### Objective
 <p style="font-size:14px;"><i> * "2 - Calcular IMC" : Calculate the IMC of people! </i></p>
 ### Studied Resources
 <p style="font-size:14px;"><i> * "Work with data validation of a form and state management of variables!</i></p>
