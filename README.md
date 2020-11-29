@@ -1,11 +1,11 @@
 # Experiment Lab 🧪
-## Project 1
+## Project 1 - Calculador de pessoas para restaurante
 ### Objective
 <p style="font-size:14px;"><i> * Create a people counter for restaurant! </i></p>
 <p style="font-size:26px;"><b> Studied Resources </b></p>
 <p style="font-size:14px;"><i> * Work with simple backend management of text widgets! </i></p>
 
-## Project 2
+## Project 2 - Calcular IMC
 ### Objective
 <p style="font-size:14px;"><i> * Calculate the IMC of people! </i></p>
 <p style="font-size:26px;"><b> Studied Resources </b></p>
